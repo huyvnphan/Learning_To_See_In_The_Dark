@@ -31,7 +31,8 @@ This is my Pytorch implementation of Learning to See in the Dark in CVPR 2018. F
 
 
 ## Requirements
-- 64GB or RAM
+- 64GB RAM
 - Pytorch 1.0
 - Numpy + Rawpy
 - Matplotlib
+I ran the code on a Tesla V100 32GB. If your GPU has less memory, reduce the batch size.
